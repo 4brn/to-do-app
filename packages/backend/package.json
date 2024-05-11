@@ -1,0 +1,25 @@
+{
+    "name": "backend",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "tsx watch src/serverV2.ts"
+    },
+    "devDependencies": {
+        "@types/body-parser": "latest",
+        "@types/bun": "latest",
+        "@types/express": "latest",
+        "@types/uuid": "latest",
+        "tsx": "^4.9.3",
+        "prettier": "^3.2.5"
+    },
+    "peerDependencies": {
+        "typescript": "^5.4.5"
+    },
+    "dependencies": {
+        "axios": "^1.6.8",
+        "body-parser": "^1.20.2",
+        "express": "^4.19.2",
+        "uuid": "^9.0.1"
+    }
+}

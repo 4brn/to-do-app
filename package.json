@@ -1,0 +1,12 @@
+{
+    "name": "to-do-app",
+    "private": "true",
+    "type": "module",
+    "workspaces": [
+        "packages/frontend",
+        "packages/backend"
+    ],
+    "scripts": {
+        "clean": "rm -rf node_modules packages/frontend/node_modules packages/backend/node_modules bun.lockb packages/frontend/bun.lockb packages/backend/bun.lockb"
+    }
+}
