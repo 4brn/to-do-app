@@ -30,7 +30,7 @@ I'm a perfectionist.
 I need to know every detail of a technology before using it.
 Unfortunately, this does not do well in the long term, so I am attempting to do a full-stack todo-list app,
 without the complete understanding of the stack beforehand.
-In spirit of the project-based way of learning, I will be reading just enough documentation, so that I can get by.
+In spirit of the 20/80 rule, I will be reading just enough documentation, so that I can get by.
 
 ### Built With
 
