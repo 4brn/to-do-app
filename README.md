@@ -91,5 +91,5 @@ Open either frontend or backend in packages/ and follow the README.md
 -   [ ] CRUD endpoints
 -   [ ] SQLite integration
 -   [ ] User auth
-
 -   [ ] Frontend implementation
+-   [ ] Launch on Netlify
