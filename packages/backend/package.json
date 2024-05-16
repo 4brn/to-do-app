@@ -8,17 +8,18 @@
     "devDependencies": {
         "@types/body-parser": "latest",
         "@types/bun": "latest",
-        "@types/express": "latest",
+        "@types/express": "^4.17.21",
         "@types/uuid": "latest",
-        "tsx": "^4.9.3",
-        "prettier": "^3.2.5"
+        "@types/dotenv": "^8.2.0",
+        "prettier": "^3.2.5",
+        "tsx": "^4.10.1"
     },
     "peerDependencies": {
         "typescript": "^5.4.5"
     },
     "dependencies": {
         "axios": "^1.6.8",
-        "body-parser": "^1.20.2",
+        "dotenv": "^16.4.5",
         "express": "^4.19.2",
         "uuid": "^9.0.1"
     }
